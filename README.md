@@ -17,8 +17,6 @@ I wear a couple of hats in the tech space:
 
 ### Core Skills & Tools
 
-### Core Skills & Tools
-
 | Skill               | Tools                                                 |
 |---------------------|-------------------------------------------------------|
 | Languages           | ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala) |
