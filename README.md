@@ -15,6 +15,10 @@ I wear a couple of hats in the tech space:
 
 - **Evolving Spark Enthusiast 🔥:** Currently learning **Scala** as my entry point into the world of **Apache Spark**. It's been a fun ride so far, and there’s a lot more to discover.
 
+### 👀 Open to Freelance and Project-Based Work
+
+I’m currently exploring new project-based or part-time opportunities. I bring a blend of solid technical skills, a knack for collaborative problem-solving, and an eagerness to learn. So if you have a gig in mind or think we could build something great together, let’s connect!
+
 ### Core Skills & Tools
 
 | Skill               | Tools                                                 |
@@ -37,10 +41,6 @@ In these repositories, you’ll find:
 - **Things I thought looked cool:** I might do the 'Developper thing' where I start building something cool then halfway through it get distracted, so oops ? 
 
 Each project is built to showcase what I know and simulate real-world applications. Feel free to explore!
-
-### 👀 Open to Freelance and Project-Based Work
-
-I’m currently exploring new project-based or part-time opportunities. I bring a blend of solid technical skills, a knack for collaborative problem-solving, and an eagerness to learn. So if you have a gig in mind or think we could build something great together, let’s connect!
 
 ---
 
