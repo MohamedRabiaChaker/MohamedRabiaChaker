@@ -17,11 +17,15 @@ I wear a couple of hats in the tech space:
 
 ### Core Skills & Tools
 
+### Core Skills & Tools
+
 | Skill               | Tools                                                 |
 |---------------------|-------------------------------------------------------|
 | Languages           | ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala) |
-| Workflow & Tooling  | ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform) |
-| Platforms           | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
+| Workflow & Tooling  | ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
+| Frameworks          | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi) |
+| Platforms           | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform) |
+
 
 I’m a **🐧 Linux 🐧 enthusiast** with a passion for getting hands-on in the terminal and diving deep into systems architecture. You'll often find me piecing together ideas, whether through Infrastructure as Code or by designing workflows that just *make sense*.
 
